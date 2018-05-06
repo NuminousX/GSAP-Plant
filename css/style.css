@@ -1,0 +1,174 @@
+html, body{
+	width: 100%;
+	padding: 0;
+	margin: 0;
+}
+
+#dashboard {
+    position: relative;
+    width: 375px;
+    height: 1769px;
+    left: 40%;
+    background-color:#fff;
+    overflow: hidden;
+    
+}
+
+#border {
+    border: 1px solid #666;
+    box-sizing: border-box;
+    -o-box-sizing: border-box;
+    -moz-box-sizing: border-box;
+    -webkit-box-sizing: border-box;
+    -ms-box-sizing: border-box;
+}
+
+.blockElement {
+    position: absolute;
+    top:0px;
+    left:0px;
+    width: 100%;
+    height: 100%;
+}
+
+.row{
+    padding: 0;
+    
+    background-color: orange;
+
+}
+
+#mobile {
+    width: 375px;
+    height: 63px;
+    background-color: rgba(250, 250, 250, 0.9);
+}
+
+#SVG1 {
+    position: absolute;
+    width: 321px;
+    height:19px;
+    left: 24px;
+    top: 50px;
+}
+
+#SVG2 {
+    position: absolute;
+    width: 208px;
+    height:68px;
+    left: 24px;
+    top: 50px;
+}
+
+
+#SVG3 {
+    position: absolute;
+    width: 330px;
+    height:166px;
+    left: 24px;
+    top: 50px;
+}
+
+#SVG4 {
+    position: absolute;
+    width: 316px;
+    height:94px;
+    left: 24px;
+    top: 50px;
+}
+
+
+#SVG5 {
+    position: absolute;
+    width: 245px;
+    height:21px;
+    left: 24px;
+    top: 50px;
+}
+
+#SVG6 {
+    position: absolute;
+    width: 87px;
+    height:10px;
+    left: 227px;
+    top: 114px;
+}
+
+#SVG7 {
+    position: absolute;
+    width: 142px;
+    height:10px;
+    left: 177px;
+    top: 98px;
+}
+
+#tip{
+    position: absolute;
+    width: 112px;
+    height:11px;
+    left: 24px;
+    top: 23px;
+}
+
+#verhaal{
+    position: absolute;
+    width: 111px;
+    height:10px;
+    left: 24px;
+    top: 23px;
+}
+
+#quote{
+    position: absolute;
+    width: 56px;
+    height:10px;
+    left: 24px;
+    top: 23px;
+}
+
+#wist{
+    position: absolute;
+    width: 65px;
+    height:10px;
+    left: 24px;
+    top: 23px;
+}
+
+#over{
+    position: absolute;
+    width: 43px;
+    height:10px;
+    left: 24px;
+    top: 23px;
+}
+
+/* Sliders */
+
+.weekTip {
+    overflow: visible;
+    margin-top: 588.7px;
+    height: 138px;
+    background-color: #44b188;
+}
+
+.hetVerhaal{
+    height: 174px;
+    background-color: #afe3e5;
+}
+
+.deQuote {
+    height: 282px;
+    background-color: #ffcb49;
+}
+
+.wistJe {
+   height: 210px;
+   background-color: #2e7fc1;
+}
+
+.over {
+    height: 138px;
+    background-color: #ff8365;
+}
+
+
